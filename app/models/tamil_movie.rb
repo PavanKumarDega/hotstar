@@ -1,0 +1,2 @@
+class TamilMovie < ApplicationRecord
+end
